@@ -3,8 +3,5 @@ ttt
 2
 d
 e
-eee
-d
-f
 e
 dd
